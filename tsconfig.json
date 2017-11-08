@@ -5,10 +5,14 @@
         "removeComments": true,
         "preserveConstEnums": true,
         "sourceMap": true,
-        "outDir": "dist"
+        "outDir": "dist",
+        "types": [
+            "mocha" // (from: https://stackoverflow.com/a/40197672/2885946)
+        ]
     },
     "include": [
-        "src/**/*"
+        "src/**/*",
+        "test/**/*"
     ],
     "exclude": [
         "node_modules/*"

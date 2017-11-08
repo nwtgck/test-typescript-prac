@@ -6,3 +6,9 @@
 npm install
 npm start
 ```
+
+## How to test
+
+```bash
+npm test
+```
