@@ -20,6 +20,14 @@ describe("myLib", ()=>{
         it("should return repeated string 'hellohellohellohellohello'", ()=>{
             assert.equal(stringTimes('hello', 5), 'hellohellohellohellohello');
         });
+
+
+        it("throw return an error, n is not integer", ()=>{
+            assert.throws(() => {
+                stringTimes('hello', 1.2)
+            });
+        });
+
     });
 
 });
