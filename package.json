@@ -11,11 +11,11 @@
   "author": "Ryo Ota",
   "license": "MIT",
   "devDependencies": {
-    "@types/mocha": "^2.2.44",
-    "@types/node": "^8.0.47",
+    "@types/mocha": "^5.2.5",
+    "@types/node": "^10.9.2",
     "@types/power-assert": "^1.4.29",
-    "mocha": "^4.0.1",
+    "mocha": "^5.2.0",
     "power-assert": "^1.4.4",
-    "typescript": "^2.6.1"
+    "typescript": "^3.0.1"
   }
 }
