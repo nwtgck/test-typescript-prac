@@ -1,6 +1,6 @@
 # Practice of test in TypeScript
 
-[![Build Status](https://travis-ci.org/nwtgck/test-typescript-prac.svg?branch=master)](https://travis-ci.org/nwtgck/test-typescript-prac)
+[![Build Status](https://travis-ci.org/nwtgck/test-typescript-prac.svg?branch=master)](https://travis-ci.org/nwtgck/test-typescript-prac) [![Greenkeeper badge](https://badges.greenkeeper.io/nwtgck/test-typescript-prac.svg)](https://greenkeeper.io/)
 
 ## How to run 
 
